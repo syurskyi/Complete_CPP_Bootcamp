@@ -17,8 +17,8 @@
 u.. s..
 
 i.. main(){
-    puts("Click on Button")
-    puts("create a new player")
-    puts("add life to player")
+    p..("Click on Button")
+    p..("create a new player")
+    p..("add life to player")
     r_ 0
 }
