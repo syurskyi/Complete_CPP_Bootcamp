@@ -3,8 +3,7 @@
 //  helloworld
 //
 //  Created by lco on 18/04/20.
-//  Copyright © 2020 lco. All rights reserved.
-//
+
 
 //#include <iostream>
 //
